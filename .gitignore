@@ -1,0 +1,8 @@
+#this is git ignore file
+C++/Program1/build/
+../.vscode/
+.vscode/
+
+# Mac 系统文件
+.DS_Store
+**/.DS_Store  # 忽略所有子目录的 .DS_Store
